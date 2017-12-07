@@ -12,7 +12,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author ken
+ * @author ken mengwa
  */
 public class CrudOps {
     private int studentID;

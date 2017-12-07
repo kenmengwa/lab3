@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ken
+ * @author ken mengwa
  */
 
 
